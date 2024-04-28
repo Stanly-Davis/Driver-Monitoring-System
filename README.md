@@ -38,11 +38,13 @@ This project/method is just an additional feature to the already existing drowsi
 
 ## Circuit
 
-![Circuit]()
+![Circuit](https://github.com/Stanly-Davis/Driver-Monitoring-System/blob/main/Images/Circuit.png)
 
 ## Model
 
-![Model]()
+![Model](https://github.com/Stanly-Davis/Driver-Monitoring-System/blob/main/Images/DrowsyDetect.png)
+
+![Model](https://github.com/Stanly-Davis/Driver-Monitoring-System/blob/main/Images/Arduino_MQ2_SW_GPS_GSM.png)
 
 ## Code
 
