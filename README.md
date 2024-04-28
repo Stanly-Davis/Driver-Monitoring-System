@@ -1,4 +1,4 @@
-# Student Monitoring System
+# Driver Monitoring System
 
 This project detects drowsiness and yawn of truck drivers through camera. The image of sleepy driver (closed eye) is saved and kept as a reference to show it to the truck owner. It also detects for alcohol/smoke. If an accident takes place, alert and GPS coordinates are sent as SMS to concerned authority/owner.
 
@@ -100,6 +100,7 @@ This process took 15-20 mins. It might vary in other systems.
 Verify if the library is installed.
 
 If not installed, you can follow the below tutorial
+
 https://raspberrytips.com/install-opencv-on-raspberry-pi/
 
 
