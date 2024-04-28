@@ -4,6 +4,9 @@ This project detects drowsiness and yawn of truck drivers through camera. The im
 
 This project is just an additional feature to the already existing drowsiness detection system.
 
+### Link to Project Files is given below:
+
+https://drive.google.com/drive/folders/1V8n4ulwOK2ZUbb2tsLoLRyJWeANNo_fE?usp=sharing
 
 
 ## Motivation
