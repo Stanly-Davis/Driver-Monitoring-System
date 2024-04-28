@@ -50,16 +50,17 @@ This project/method is just an additional feature to the already existing drowsi
 
 
 Drowsiness detection and Gmail alert is done through Raspberry pi.
+
 Alcohol/smoke detection, accident detection and SMS alert is done by Arduino
 
 
 ### Setting up Raspberry Pi 
 
-Model: Raspberry Pi 3B+ 
-Operating System: Raspberry Pi OS (32 bit)
-Debian Version: 11 (bullseye)
-Kernel: Linux 5.15.84-v7+
-RAM: 1GB
+        Model: Raspberry Pi 3B+ 
+        Operating System: Raspberry Pi OS (32 bit)
+        Debian Version: 11 (bullseye)
+        Kernel: Linux 5.15.84-v7+
+        RAM: 1GB
 
 Library files required:
 
@@ -179,14 +180,19 @@ Once all this is done, open Thonny editor or any other coding editor and then ru
 ### Setting up Arduino Uno
 
 1. GSM module
+   
 Sim800A is easy to use. It works well when we insert a 4G Airtel Sim. 3G sim dint work with this model.
+
 Library file needed: SoftwareSerial.h
 
-2. GPS module 
-Library file needed: TinyGPS++.h
+2. GPS module
+   
+
 NEO-6M has low accuracy. It works good only at open place like terrace or ground. Many approaches can be taken to increase the accuracy of the GPS module.
 
-3. Library files need for Arduino:
+Library file needed: TinyGPS++.h
+
+3. Library files needed for Arduino:
 
         SoftwareSerial.h
         TinyGPS++.h
